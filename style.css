@@ -122,6 +122,10 @@ a{
 
 }
 
+.hero-section-sub-heading span{
+    font-size: 1.35em;
+    color: #4e45d5;
+}
 .hero-section-description{
     margin-top: 1rem;
     width: 70%;
